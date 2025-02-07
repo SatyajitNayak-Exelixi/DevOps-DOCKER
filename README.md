@@ -14,4 +14,4 @@ Feel free to explore the questions and answers in each section. You can use them
 ## Acknowledgments 🙏
 
 > [!NOTE]
-> Thanks to all who has spent time to learn DOCKER..
+> Thanks to all who has spent time to learn DOCKER...
